@@ -12,7 +12,7 @@ For details about using this service, see [details.md](details.md)
 1. Clone this repo with:
 
 ```bash
-git clone https://github.com/chargerback/Redis-search.git
+git clone https://github.com/iportilla/search-redis.git
 ```
 
 2. Copy .env.sample to .env with:
