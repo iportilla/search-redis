@@ -24,8 +24,8 @@ cp .env.sample .env
 3. Update .env with *Azure OpenAI* settings:
 
 ```bash
-INDEX_NAME=index
-REDIS_HOST=192.168.110.122
+INDEX_NAME=	"INDEX_NAME"
+REDIS_HOST="LOCALHOST"
 REDIS_PORT=6379
 API_KEY="YOUR_API_KEY"
 API_BASE="YOUR_API_BASE_URL"
