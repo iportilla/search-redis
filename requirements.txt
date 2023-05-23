@@ -1,0 +1,11 @@
+altair
+scikit-learn
+matplotlib
+plotly
+scipy
+pandas
+streamlit
+numpy
+openai
+redis
+redisearch
