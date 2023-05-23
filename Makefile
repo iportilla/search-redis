@@ -51,4 +51,4 @@ clean:
 	-docker rm -f $(APP_NAME) 2> /dev/null || :
 	-docker rmi $(DOCKER_HUB_ID)/$(APP_NAME):$(APP_VERSION) 2> /dev/null || :
 
-.PHONY: default all build run check stop hznbuild hznstart hznstop publish-service publish-service-only publish-pattern clean
+.PHONY: default all build run check stop clean
